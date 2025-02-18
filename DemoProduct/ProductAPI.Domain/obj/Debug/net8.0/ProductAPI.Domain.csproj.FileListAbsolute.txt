@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.deps.json
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.dll
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\bin\Debug\net8.0\ProductAPI.Domain.pdb
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.sourcelink.json
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.dll
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\refint\ProductAPI.Domain.dll
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\ProductAPI.Domain.pdb
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoProduct\ProductAPI.Domain\obj\Debug\net8.0\ref\ProductAPI.Domain.dll

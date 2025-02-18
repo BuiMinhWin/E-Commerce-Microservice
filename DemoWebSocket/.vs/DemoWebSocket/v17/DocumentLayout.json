@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EFBA36-1920-4B67-A1A8-3CDAAD7CEB92}|DemoWebSocket\\DemoWebSocket.csproj|c:\\users\\pc\\documents\\github\\e-commerce-microservice\\demowebsocket\\demowebsocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EFBA36-1920-4B67-A1A8-3CDAAD7CEB92}|DemoWebSocket\\DemoWebSocket.csproj|solutionrelative:demowebsocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EFBA36-1920-4B67-A1A8-3CDAAD7CEB92}|DemoWebSocket\\DemoWebSocket.csproj|c:\\users\\pc\\documents\\github\\e-commerce-microservice\\demowebsocket\\demowebsocket\\demowebsocket.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{40EFBA36-1920-4B67-A1A8-3CDAAD7CEB92}|DemoWebSocket\\DemoWebSocket.csproj|solutionrelative:demowebsocket\\demowebsocket.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EFBA36-1920-4B67-A1A8-3CDAAD7CEB92}|DemoWebSocket\\DemoWebSocket.csproj|c:\\users\\pc\\documents\\github\\e-commerce-microservice\\demowebsocket\\demowebsocket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40EFBA36-1920-4B67-A1A8-3CDAAD7CEB92}|DemoWebSocket\\DemoWebSocket.csproj|solutionrelative:demowebsocket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EFBA36-1920-4B67-A1A8-3CDAAD7CEB92}|DemoWebSocket\\DemoWebSocket.csproj|c:\\users\\pc\\documents\\github\\e-commerce-microservice\\demowebsocket\\demowebsocket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40EFBA36-1920-4B67-A1A8-3CDAAD7CEB92}|DemoWebSocket\\DemoWebSocket.csproj|solutionrelative:demowebsocket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\DemoWebSocket\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoWebSocket\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\DemoWebSocket\\appsettings.json",
+              "RelativeToolTip": "DemoWebSocket\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T09:20:25.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\DemoWebSocket\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoWebSocket\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\DemoWebSocket\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoWebSocket\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T07:54:52.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoWebSocket.http",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\DemoWebSocket\\DemoWebSocket.http",
+              "RelativeDocumentMoniker": "DemoWebSocket\\DemoWebSocket.http",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\DemoWebSocket\\DemoWebSocket.http",
+              "RelativeToolTip": "DemoWebSocket\\DemoWebSocket.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-21T07:54:46.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\DemoWebSocket\\Program.cs",
+              "RelativeDocumentMoniker": "DemoWebSocket\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoWebSocket\\DemoWebSocket\\Program.cs",
+              "RelativeToolTip": "DemoWebSocket\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:51:00.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

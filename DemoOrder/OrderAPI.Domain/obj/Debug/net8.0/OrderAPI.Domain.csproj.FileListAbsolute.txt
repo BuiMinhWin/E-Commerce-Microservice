@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\bin\Debug\net8.0\OrderAPI.Domain.deps.json
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\bin\Debug\net8.0\OrderAPI.Domain.dll
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\bin\Debug\net8.0\OrderAPI.Domain.pdb
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.sourcelink.json
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.dll
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\refint\OrderAPI.Domain.dll
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.pdb
+C:\Users\PC\Documents\GitHub\E-Commerce-Microservice\DemoOrder\OrderAPI.Domain\obj\Debug\net8.0\ref\OrderAPI.Domain.dll
