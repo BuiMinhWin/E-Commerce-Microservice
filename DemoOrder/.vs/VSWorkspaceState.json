@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "\\OrderAPI.Application\\bin",
+    "\\OrderAPI.Application\\DependencyInjection",
+    "\\OrderAPI.Application\\DTOs",
+    "\\UnitTestOrderAPI"
+  ],
+  "PreviewInSolutionExplorer": false
+}

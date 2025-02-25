@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1527C68B-1097-4B1D-BB38-4A35A863A48F}|UnitTest.ProductAPI\\UnitTest.ProductAPI.csproj|c:\\users\\pc\\documents\\github\\e-commerce-microservice\\demoproduct\\unittest.productapi\\controller\\productrepotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1527C68B-1097-4B1D-BB38-4A35A863A48F}|UnitTest.ProductAPI\\UnitTest.ProductAPI.csproj|solutionrelative:unittest.productapi\\controller\\productrepotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4976DC1A-45FB-4157-A52D-A293538C414A}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|c:\\users\\pc\\documents\\github\\e-commerce-microservice\\demoproduct\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4976DC1A-45FB-4157-A52D-A293538C414A}|ProductAPI.Infrastructure\\ProductAPI.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepoTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoProduct\\UnitTest.ProductAPI\\Controller\\ProductRepoTest.cs",
+              "RelativeDocumentMoniker": "UnitTest.ProductAPI\\Controller\\ProductRepoTest.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoProduct\\UnitTest.ProductAPI\\Controller\\ProductRepoTest.cs*",
+              "RelativeToolTip": "UnitTest.ProductAPI\\Controller\\ProductRepoTest.cs*",
+              "ViewState": "AgIAAJ8AAAAAAAAAAADwv6sAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:08:16.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoProduct\\ProductAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\E-Commerce-Microservice\\DemoProduct\\ProductAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:42:16.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

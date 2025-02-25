@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "n0nSPCLggGVm/VHpYXVcJd10XESbCVrhI7FBI0bfNt0=",
+  "Source": "DemoWebSocket",
+  "BasePath": "_content/DemoWebSocket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
